@@ -5,28 +5,27 @@ Direct3D:
     Renderer: NVIDIA Quadro K5000 (ID=0x11ba)
     Vendor:   NVIDIA
     VRAM:     3072 MB
-    Driver:   22.21.13.8205
+    Driver:   22.21.13.8590
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Vanish\Terrain-Tests\FPS Test\Builds\FPS Test_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Vanish\Terrain-Tests\FPS Test\Builds\FPS Test_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Vanish\Terrain-Tests\FPS Test\Builds\FPS Test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Vanish\Terrain-Tests\FPS Test\Builds\FPS Test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Vanish\Terrain-Tests\FPS Test\Builds\FPS Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Vanish\Terrain-Tests\FPS Test\Builds\FPS Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Vanish\Terrain-Tests\FPS Test\Builds\FPS Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Vanish\Terrain-Tests\FPS Test\Builds\FPS Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Vanish\Terrain-Tests\FPS Test\Builds\FPS Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Vanish\Terrain-Tests\FPS Test\Builds\FPS Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.027 seconds
-Platform assembly: C:\Vanish\Terrain-Tests\FPS Test\Builds\FPS Test_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Vanish\Terrain-Tests\FPS Test\Builds\FPS Test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Development\Vanish\Unity-Tests\FPS Test\Builds\FPS Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Development\Vanish\Unity-Tests\FPS Test\Builds\FPS Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Development\Vanish\Unity-Tests\FPS Test\Builds\FPS Test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Development\Vanish\Unity-Tests\FPS Test\Builds\FPS Test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Development\Vanish\Unity-Tests\FPS Test\Builds\FPS Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Development\Vanish\Unity-Tests\FPS Test\Builds\FPS Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Development\Vanish\Unity-Tests\FPS Test\Builds\FPS Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Development\Vanish\Unity-Tests\FPS Test\Builds\FPS Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Development\Vanish\Unity-Tests\FPS Test\Builds\FPS Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Development\Vanish\Unity-Tests\FPS Test\Builds\FPS Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: C:\Development\Vanish\Unity-Tests\FPS Test\Builds\FPS Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Development\Vanish\Unity-Tests\FPS Test\Builds\FPS Test_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1200 59Hz; virtual: 3840x1200 at 0,0
 <RI> Initializing input.
-XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.689107 ms
+UnloadTime: 1.927384 ms
 Setting up 3 worker threads for Enlighten.
-  Thread -> id: 16b0 -> priority: 1 
-  Thread -> id: 43ec -> priority: 1 
-  Thread -> id: 111c -> priority: 1 
+  Thread -> id: 53c -> priority: 1 
+  Thread -> id: 1890 -> priority: 1 
+  Thread -> id: 2af0 -> priority: 1 
